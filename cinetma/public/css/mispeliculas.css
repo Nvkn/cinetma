@@ -1,0 +1,19 @@
+.table .thead-dark th {
+  color: #fff;
+  background-color: #800000;
+  border-color: #800000;
+}
+
+.eliminar, .editar
+{
+    width: 2.5rem;
+}
+a, a:hover, a:active
+{
+    color: #000;
+    text-decoration: none;
+}
+.portada img
+{
+    max-width: 7rem;
+}

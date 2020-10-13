@@ -1,27 +1,39 @@
-# Deseño
-
-Unha vez realizada a fase de análise, debemos ter como resultado un listado de tarefas ou funcións a implementar. Nesta fase, debemos deseñar os algoritmos para implementar cada unha das funcións (cun diagrama ou pseudocódigo). Isto soamente debería ser necesario para funcións ou tarefas complexas que requiran de pasos máis pequenos para a súa implementación.
-
-Unha vez realices esta fase, remata de completar o último anexo: Orzamento.
+# Diseño
 
 ## Modelo conceptual do dominio da aplicación
-Pode ser un diagrama de clases usando UML, ConML, ou outra linguaxe semellante.
+
+Dado que el modelo conceptual resulta más complejo en Laravel, lo voy a distribuír en distintos apartados:
+
+### Modelos
+![Diagrama Modelos](../img/modelos.png)
+
+### Controllers
+![Diagrama Controllers](../img/controllers.png)
+
+### Middelware
+![Diagrama Middleware](../img/middleware.png)
+
+### Notificaciones
+![Diagrama Notificaciones](../img/notification.png)
+
+### Jobs
+![Diagrama Jobs](../img/job.png)
+
 
 ## Casos de uso
-Descritos en fichas e/ou mediante esquemas; deben incluír o(s) tipo(s) de usuario implicados en cada caso de uso.
+![Diagrama casos de uso](../img/CasosDeUso.png)
 
-## Deseño de interface de usuarios
-Unha forma de axudar ó deseño da aplicación é realizar uns mockups: pódelos facer á man ou cunha aplicación ou a través dunha web do estilo: https://app.diagrams.net/
 
-Os mockups deben incluir todas as vistas da aplicación, é dicir, todas as páxinas diferentes que un usuario (de calquera tipo) vai a poder ver. Un mockup permite ver como se verá unha páxina concreta da nosa aplicación web. O deseño de mockups vainos axudar a:
 
-- Avanzar moi rápido na parte frontend: ao ter os mockups realizados, xa sabemos que elementos vai ter cada vista e onde colocalos. Podes empregar un framework CSS ou programar as follas de estilos.
-- Visualizar a información que vai a ser necesaria mostrar. Sabendo con que información imos traballar e sabendo a información que necesitamos mostrar ao usuarios, podemos organizar os datos dunha forma axeitada para gardalos na base de datos. 
+## Diseño de interface de usuarios
+
+![Mockup](../img/mockup.png)
+
 
 ## Diagrama de Base de Datos.
-Nesta fase tamén teremos que realizar:
+Para este apartado van a ser necesarios dos tipos de diagramas distintos:
 
-- Modelo Entidade/relación 
-- Modelo relacional 
-
-Poderedes entregar a captura do phpMyAdmin se empregades MariaDB como Modelo relacional.
+- Modelo Entidad/Relación
+	+ ![Diagrama Entidad/Relacion](../img/entidad-relacion.png)
+- Modelo Relacional
+	+ ![Diagrama Relacional](../img/relacional.png)

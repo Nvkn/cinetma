@@ -1,40 +1,45 @@
-# Proxecto de fin de ciclo DAW
+# Cinetma
 
-> *Tarefa*: Este documento será a páxina de inicio do teu proxecto. Será o primero que vexan os que se interesen por el. Coida a súa redacción e ortografía. Elimina todas as liñas "*Tarefa*" cando teñas a redacción de todo o proxecto completada.
-> Podes acompañar a redacción deste ficheiros con imaxes ou GIFs, pero non abuses deles. 
+## Descripción
 
+Cinetma es una página web dedicada al cine independiente de alcance estatal que aspira a agrupar todas las producciones de cine independiente del país en un mismo sitio, ayudando así a la promoción del mismo. De este modo, se puede conseguir una mayor difusión del mismo que beneficia tanto a las productoras (que logran una mayor difusión de su contenido, y abaratan costes de promoción) como a sus consumidores (quienes disponen de una nueva fuente de información sobre este sector, lo cual solía ser una tarea algo complicada). Además, cuenta con un Bot de Discord para poder obtener la información desde esa plataforma si se desea.
 
-## Descrición
-> *Tarefa*: Realiza unha breve descrición do proxecto (entre 100 e 300 palabras). Resalta o fundamental **coas túas palabras**. Utiliza unha linguaxe correcta, pero natural, que o entenda todo o mundo, incluso e en especial, as persoas que non teñan un coñecemento técnico avanzado. Pode ser un estrato ou resumo dos apartados que se contemplan na memoria.
-
-## Instalación
-> *Tarefa*: Neste apartado describe con toda precisión e, a poder ser, coa maior simplicidade/facilidade posible, como poñer en marcha a túa aplicación para probala (nun entorno local). Valorarase moi positivamente que este proceso sexa o máis fácil posible, cunha simple instrución (por exemplo, un script de instalación).
 
 ## Uso
-> *Tarefa*: Neste apartado, describe brevemente como se usará o software. Se ten unha interfaz de terminal, describe aquí a súa sintaxe. Se ten unha interfaz gráfica de usuario, describe aquí **só o uso** (a modo de sumario) **dos aspectos máis relevantes do seu funcionamento** (máxima brevidade, como se fose un anuncio reclamo ou comercial).
+Está diseñada para ser lo mas intuitiva posible, por lo que su uso es bastante sencillo, sin llegar a necesitar ningún tipo de instrucciones para el usuario.
+
+Al entrar en la página web, se puede navegar por el menú para acceder a las distintas categorías, donde se encuentran las películas. Para valorar una película, tan solo debes haber iniciado sesión (para lo que debes registrarte previamente). En caso de disponer de que el usuario sea un colaborador o moderador, si desea subir, editar o modificar películas, se puede hacer desde la página del perfil, desde unas nuevas secciones que se encuentran en el menú lateral. En caso de activar las notificaciones, se recibirá un correo electrónico con información sobre las nuevas películas a medida que estas son publicadas para su lanzamiento.
+
+Para añadir el Bot de Discord a un servidor, únicamente debes hacer click [aquí](https://discord.com/oauth2/authorize?client_id=720013995100078081&permissions=51200&scope=bot), y ya dispondrás de todas las funcionalidades del Bot en el mismo. En caso de querer unirte al canal de Discord de la web, basta con entrar en [este enlace](https://discord.gg/XE9w2gZ). Este servidor dispone de un canal en el que se notifica automáticamente de las nuevas películas que son publicadas.
+
+
 
 ## Sobre el autor
-> *Tarefa*: Realiza unha breve descrición de quen es desde unha perspectiva profesional, os teus puntos fortes, tecnoloxías que máis dominas e o motivo de por que te decantaches por este proxecto. **Non máis de 200 palabras**. Indica unha forma fiable de contactar contigo no presente e no futuro.
+Me llamo _Nicolás Barcia Quintela_, tengo 20 años y soy estudiante de DAW en el IES San Clemente, Santiago de Compostela.
+Siempre me ha gustado el mundo de la informática y la tecnología, ya que desde pequeño ha sido mi mayor afición. Me considero una persona sociable, me gusta trabajar en equipo y siempre estoy dispuesto a adentrarme en nuevas áreas de conocimiento sobre las que no tengo experiencia previa.
+
+Considero que domino principalmente backend, a pesar de que también me gusta desenvolverme en frontend. Los lenguajes en los que mas experiencia tengo son *Php* y *JavaScript*, además de algun framework como *Laravel*. Además, también tengo algunos conocimientos sobre otros lenguajes, como por ejemplo *Node.js* o *Java*.
+
+Puedes ponerte en contacto conmigo por los siguientes medios:
+- Correo electrónico (instituto): [a18nicolasbq@iessanclemente.net](mailto:a18nicolasbq@iessanclemente.net)
+- Correo electrónico (personal): [nicolasbarciaq@gmail.com](nicolasbarciaq@gmail.com)
+
 
 ## Licencia
-> *Tarefa*: É requisito INDISPENSABLE licenciar explicitamente o proxecto. Crea un ficheiro `LICENSE` na raíz do repositorio.
+Este proyecto tiene licencia propietaria, por lo que no está permitida la distribución, modificación o comercialización de su contenido.
 
-## Guía de contribución
-> *Tarefa*: Se o teu proxecto se trata de software libre, é importante que expoñas como se pode contribuir a el. Algúns exemplos disto son realizar novas funcionalidades, corrección e/ou optimización de código, realización de tests automatizados, novas interfaces de integración, desenvolvemento de plugins, etc. Intenta dar unha mensaxe concisa.
-
+© 2020 Nicolás Barcia Quintela
+All Rights Reserved.
 
 ## Memoria
 
-> *Tarefa*: Indexa de forma ordenada a memoria do teu proxecto.
-> Durante a redacción da memoria, debes ir completando progresivamente o anexo de Referencias.
-
-1. [Estudo preliminar](doc/templates/1_estudo_preliminar.md)
-2. [Análise: Requerimentos do sistema](doc/templates/2_analise.md)
-3. [Deseño](doc/templates/3_deseno.md)
-4. [Codificación e Probas](doc/templates/4_codificacion_probas.md)
-5. [Manuais](doc/templates/5_manuais.md)
+1. [Estudio preliminar](doc/templates/1_estudo_preliminar.md)
+2. [Análisis: Necesidades del sistema](doc/templates/2_analise.md)
+3. [Diseño](doc/templates/3_deseno.md)
+4. [Codificación y Pruebas](doc/templates/4_codificacion_probas.md)
+5. [Manuales](doc/templates/5_manuais.md)
 
 #### Anexos
 1. [Referencias](doc/templates/a1_referencias.md)
 1. [Planificación](doc/templates/a2_planificacion.md)
-2. [Orzamento](doc/templates/a3_orzamento.md)
+2. [Presupuesto](doc/templates/a3_orzamento.md)

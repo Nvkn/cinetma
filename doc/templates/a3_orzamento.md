@@ -1,68 +1,53 @@
-# Orzamento
-
-Cando realizar o orzamento:
-- **Antes de comezar o estudo preliminar**, realiza un orzamento para as fases de estudo preliminar, análise e deseño. 
-- **Unha vez realiza esas tres fases**, remata de completar o orzamento co coste da fase de execución.
+# Presupuesto
 
 
-Realizar o orzamento do proxecto é relativamente fácil se a planificación está ben elaborada. 
-Neste caso dispoñerase dun custo por cada actividade e a suma do custo de todas as actividades será o custo total do proxecto. 
-Para establecer os custos do proxecto téñense en conta diferentes conceptos: 
-Materiais que se utilizan: material funxible, materias primas, materiais didácticos, roupa de traballo… 
-Custo horario das persoas que participan directamente na actividade. 
-Aluguer/compra de ferramentas, maquinaria, equipos informáticos e/ou audiovisuais… 
-Aluguer/compra de locais 
-Contratos de subministracións: auga, luz, electricidade, gas… Subcontrataciones 
-Gastos de publicidade… 
-Seguros ... 
+## Presupuesto por actividad
 
-O maior custo no proxecto case sempre corresponde ás persoas, polo que é importante controlar o número de horas que se invisten en cada actividade para que non se nos desequilibre o orzamento. Tamén hai que coidar as subcontratacións; convén que traballen cun orzamento establecido.
- A continuación preséntanse dúas opción de táboa para facilitar a creación do orzamento do proxecto:
+| ACTIVIDAD | DURACIÓN | COSTE (EUROS) | PERSONAS | RECURSOS MATERIALES |COSTE TOTAL ACTIVIDAD |
+|--|--|--|--|--|--|
+|Búsqueda y análisis de la idea|1 semana|38.52€|1|Ordenador / Sublime Text 2 / Trello|38.52€|
+|Formación en Laravel|5 días|27.51€|1|Ordenador / Sublime Text 2 / Trello|27.51€|
+|Análisis del proyecto|1 semana|38.52€|1|Ordenador / Sublime Text 2 / Trello|38.52€|
+|Creación del servidor|3 días|16.51€|1|Ordenador / Sublime Text 2 / Trello|16.51€|
+|Maquetación y estructuración Front-End|5 días|27.51€|1|Ordenador / Sublime Text 2 / Trello / Photoshop 2020|27.51€|
+|Estructuración Back-End|1 semana|38.52€|1|Ordenador / Sublime Text 2 / Trello|38.52€|
+|Codificación|4 semanas|154.08€|1|Ordenador / Sublime Text 2 / Trello / Photoshop|154.08€|
+|Pruebas|1 semana|38.52€|1|Ordenador / Sublime Text 2 / Trello|38.52€|
 
-## Orzamento por actividade
 
-| ACTIVIDADE | DURACIÓN | CUSTO (EUROS) | | CUSTO TOTAL ACTIVIDADE |
-|--|--|--|--|--|
-|            |          | PERSOAS|RECURSOS MATERIAIS|
-|||||
-|||||
-|||||
-|||||
+**TOTAL PROYECTO: 369.69€**
 
-| TOTAL | PROXECTO | 
-| -- | -- |
-
-## Orzamento por partidas de inversión / gasto:
+## Presupuesto por partidas de inversión / gasto:
 
 | CONCEPTO | IMPORTE|
 |--|--|
-|**A) INVERSIONS**
-|Gastos de establecemento e gastos de constitución
-|Total inmobilizacións inmateriais
-|Terreos
-|Construcións
-|Instalacións técnicas
-|Maquinaria
-|Ferramentas
-|Mobiliario e instalacións
-|Equipos informáticos
-|Elementos de transporte
-|Outro inmobilizado material
-|Total inmobilizacións materiais
-|Outros gastos a distribuír en varios exercicios
-|**TOTAL INVERSIÓNS:**
+|**A) INVERSIONES**
+|Gastos de establecimiento y gastos de constitución|0€|
+|Total inmobilizaciones inmateriales|0€|
+|Terrenos|0€|
+|Construciones|0€|
+|Instalaciones técnicas|0€|
+|Maquinaria|0€|
+|Herramientas|0€|
+|Mobiliario e instalaciones|0€|
+|Equipos informáticos|2700€|
+|Elementos de transporte|0€|
+|Otro inmobilizado material|0€|
+|Total inmobilizaciones materiales|0€|
+|Otros gastos a distribuír en varios ejercicios|0€|
+|**TOTAL INVERSIONES:**|2700€|
 |**B) GASTOS**
-|Compras de materiais
-|Arrendamentos
-|Publicidade, propaganda e relacións públicas
-|Persoal
-|Reparacións e conservación
-|Servizos de profesionais independentes
-|Outros gastos xerais
-|Gastos financeiros
-|Amortizacións
-|Gastos de xestión e administración
-|**TOTAL GASTOS:**
+|Compras de materiales|0€|
+|Alquileres|0€|
+|Publicidad, propaganda y relaciones públicas|0€|
+|Persoal|5280€ (10€/hora)|
+|Reparaciones y conservación|0€|
+|Servicios de profesionales independentes|0€|
+|Otros gastos generales|0€|
+|Gastos financieros|0€|
+|Amortizaciones|0€|
+|Gastos de gestión y administración|0€|
+|**TOTAL GASTOS:**|5280€|
 
-|TOTAL ORZAMENTO:
-|--|
+
+**TOTAL PRESUPUESTO: 8619.69€**
